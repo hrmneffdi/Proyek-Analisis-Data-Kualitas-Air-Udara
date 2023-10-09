@@ -46,7 +46,7 @@ list_file = {'Aotizhongxin': 'PRSA_Data_Aotizhongxin_20130301-20170228',
              'Wanliu': 'PRSA_Data_Wanliu_20130301-20170228',
              'Wanshouxigong': 'PRSA_Data_Wanshouxigong_20130301-20170228'}
 
-path = f"../data/{list_file[stasiun]}.csv"
+path = f"/data/{list_file[stasiun]}.csv"
 
 df = pd.read_csv(path)
 var = ['PM2.5', 'PM10', 'NO2', "O3","PRES", 'WSPM', 'TEMP']
