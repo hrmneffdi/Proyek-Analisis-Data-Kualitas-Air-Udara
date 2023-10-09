@@ -1,5 +1,5 @@
-pandas 2.0.3
+pandas 
 numpy 
-matplotlib 3.7.3
-seaborn 0.12.0
-streamlit 1.26.0
+matplotlib 
+seaborn 
+streamlit 
