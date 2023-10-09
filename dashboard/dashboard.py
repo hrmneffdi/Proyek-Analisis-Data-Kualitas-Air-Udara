@@ -1,5 +1,3 @@
-pip install streamlit pandas numpy matplotlib seaborn -q -q
-
 import streamlit as st
 import pandas as pd
 import numpy as np
