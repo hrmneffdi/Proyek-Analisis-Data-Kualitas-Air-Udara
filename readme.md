@@ -1,8 +1,8 @@
 ### Setup Environtment
 
-python -m venv myenv
-myenv\Scripts\activate
-pip install pandas numpy matplotlib seaborn streamlit
+python -m venv myenv <br>
+myenv\Scripts\activate <br>
+pip install pandas numpy matplotlib seaborn streamlit <br>
 
 ### Run streamlit
 
